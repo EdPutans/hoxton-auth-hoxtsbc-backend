@@ -1,0 +1,18 @@
+{
+  "name": "node-auth-hoxtsbc-backend",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@types/better-sqlite3": "^7.4.1",
+    "@types/express": "^4.17.13",
+    "@types/node": "^16.11.10",
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^7.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "typescript": "^4.5.2"
+  }
+}
